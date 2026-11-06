@@ -1,0 +1,12 @@
+[user]
+    name = willstonell
+    email = willstonell@users.noreply.github.com
+[core]
+    editor = vim
+    autocrlf = input
+[pull]
+    rebase = true
+[alias]
+    st = status
+    co = checkout
+    ci = commit
